@@ -1,0 +1,3 @@
+[submodule "fsggs.server"]
+	path = fsggs.server
+	url = git@github.com:fsggs/fsggs.server.git
